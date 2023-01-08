@@ -5,7 +5,7 @@
 
 /* header section start here */
 .header-banner {
-    background-image: url(./banner/banner2.png);
+    background-image: url(./images/banner/banner2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -83,7 +83,7 @@
 
 .always-positive-mind {
     margin: 30px;
-    background-image: url(./gradient2.png), url(./watch.png);
+    background-image: url(./images/gradient2.png), url(./images/watch.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 200px;
